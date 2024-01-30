@@ -1,0 +1,246 @@
+* {
+    border: 0;;
+    padding: 0;
+    margin: 0;
+   
+}
+
+
+body {
+    background: linear-gradient(to bottom, black ,grey, white );
+    background-repeat: no-repeat;
+
+}
+
+h1 {
+    font-family: Audiowide, sans-serif;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+
+h3 {
+    font-size: 50px;
+    padding-top: 70px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    color: lightgrey;
+}
+
+.trianglepic {
+
+    padding-top: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+.section1 {
+    font-size: 30px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.section2 {
+    font-size: 30px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+.section3 {
+    font-size: 30px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    
+}
+
+.header {
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Inter, sans-serif;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+div.container {
+   text-align: center; 
+    
+
+}
+
+
+
+ul.list {
+    font-size: 30px;
+    display: inline-block;
+    text-align: left;
+     
+   
+    
+}
+
+li {
+    margin: 20px 0;
+}
+
+.small {
+    font-size: 20px;
+}
+
+.discord {
+    text-decoration: none;
+    color: black;
+    padding-bottom: 100px;
+}
+
+.discord:hover {
+    color: grey;
+    transition: .5s;
+}
+
+
+
+.gob {
+    height: 100px;
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+
+.triangle {
+    height: 100px;
+    padding-bottom: 10px;
+}
+
+.container2 {
+    display: flex;
+   justify-content: center;
+    gap: 100px;
+    padding-bottom: 100px;
+}
+
+
+.container2 p {
+    font-size: 20px;
+}
+
+.twittlogo {
+    height: 50px;
+    margin-left: 20px;
+}
+
+.disclogo {
+    height: 50px;
+    margin-left: 10px;
+}
+
+.threads {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 70px;
+}
+
+.threads p {
+    margin-bottom: 10px;
+}
+
+
+.links {
+    color: black;
+    text-decoration: none;
+}
+
+.links:hover {
+    color: grey;
+    transition: .5s;
+}
+
+.linksinfo {
+    width: 1000px;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+}
+
+
+.stats {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 50px;
+}
+
+.row1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.logorow1 {
+    height: 150px;
+   
+    
+}
+
+.row2 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.row3 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.row4 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.row5 {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.last {
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Inter, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+
+.robotika {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-bottom: 100px;
+}
+
+.small2 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 30px;
+}
