@@ -118,9 +118,21 @@ li {
     padding-bottom: 10px;
 }
 
+.gob:hover {
+    opacity: .7;
+}
+
+
+
 .triangle {
     height: 100px;
     padding-bottom: 10px;
+}
+
+.triangle:hover {
+
+    opacity: .7;
+
 }
 
 .container2 {
